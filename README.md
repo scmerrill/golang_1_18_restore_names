@@ -18,4 +18,4 @@ Awesome prior work on reverse engineering Go binaries that helped a lot for this
 
 ## License
 
-This plugin is released under an [MIT license](./license).
+This plugin is released under an [MIT license](./LICENSE).
